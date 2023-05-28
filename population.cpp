@@ -3,7 +3,7 @@
 #include "nlohmann/json.hpp"
 #include <iostream>
 #include <curl/curl.h>
-
+//Population class implementation
 Population::Population(double latitude, double longitude) {
     this->latitude = latitude;
     this->longitude = longitude;

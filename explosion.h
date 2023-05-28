@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 #include <tuple>
-
+//explosion class
 class Explosion {
 public:
     Explosion(QString bomb, double population, int speedOfWind, QString directionOfWind);

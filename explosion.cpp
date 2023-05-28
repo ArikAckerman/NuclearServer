@@ -3,7 +3,7 @@
 #include <curl/curl.h>
 #include <nlohmann/json.hpp>
 #include <tuple>
-
+//Explosion class implementation
 Explosion::Explosion(QString bomb, double population, int speedOfWind, QString directionOfWind)
 
 {
