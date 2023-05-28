@@ -3,7 +3,7 @@
 #include "explosion.h"
 #include <tuple>
 #include <QChar>
-
+//Server class implementation
 Server::Server(){
     if(this -> listen(QHostAddress::Any, 4040)){
         qDebug()<<"start";
