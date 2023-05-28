@@ -6,7 +6,7 @@
 #include <QDataStream>
 #include <string>
 #include <vector>
-
+//Population class
 class Population {
 public:
     Population(double latitude, double longitude);
