@@ -21,6 +21,7 @@ Clone the repository to your local machine.
 Build and compile the project using a C++ compiler.
 Provide the necessary inputs such as bomb power, latitude, longitude, weather conditions, and wind information.
 Run the program to calculate the explosion effects, casualties, and shelter requirements based on the provided inputs.
+Please note that for the proper functionality a client program is needed.
 
 Contributing:
 
